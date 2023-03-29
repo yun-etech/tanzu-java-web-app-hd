@@ -8,6 +8,6 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/haewons-tanzu/tanzu-java-web-app
+      url: https://github.com/yun-etech/tanzu-java-web-app-hd
       ref:
-        branch: master
+        branch: main
